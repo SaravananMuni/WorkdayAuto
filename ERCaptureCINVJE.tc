@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ERCaptureCINVJE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76b24a6e-66d9-42f1-a935-c76dfff5625a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>37e9b455-7f7d-438e-b131-89fddb691b2b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f27bc535-c7d6-4be7-a49b-f492256b7152</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cfd6034c-6d24-4ac1-b865-bfc0c04d4a9e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>37e9b455-7f7d-438e-b131-89fddb691b2b</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f27bc535-c7d6-4be7-a49b-f492256b7152</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cfd6034c-6d24-4ac1-b865-bfc0c04d4a9e</id>
+      <masked>false</masked>
+      <name>SINV</name>
+   </variable>
+</TestCaseEntity>

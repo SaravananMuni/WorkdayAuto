@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SINVCaptureCINVJE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>33c9fc0c-5819-457f-ab02-ece903b7474f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7b38ef26-bca4-4583-92ab-da18d748202f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ff5fa6cd-af18-412b-a0ae-db4af50ce0e2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>11a475ad-5a52-450f-a420-1efed84e4aca</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7b38ef26-bca4-4583-92ab-da18d748202f</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ff5fa6cd-af18-412b-a0ae-db4af50ce0e2</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>11a475ad-5a52-450f-a420-1efed84e4aca</id>
+      <masked>false</masked>
+      <name>SINV</name>
+   </variable>
+</TestCaseEntity>
